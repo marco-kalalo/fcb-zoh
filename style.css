@@ -41,9 +41,9 @@ footer {
 }
 
 /*class selector (.): selects elements with specific class*/
-.fa-globe, .fa-facebook, .fa-twitter, .fa-instagram, .fa-tiktok, .fa-youtube {
-    font-size: 25px !important; 
-    color: white !important;
+.fa-globe, .fa-facebook, .fa-x-twitter, .fa-instagram, .fa-tiktok, .fa-youtube {
+    font-size: 25px ; 
+    color: white;
     /*margin applied to top-rgiht-bottom-left*/
     margin: 0 10px 0 10px !important;
 }
